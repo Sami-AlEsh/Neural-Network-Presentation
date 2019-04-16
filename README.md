@@ -6,5 +6,4 @@
 - Neural Network problems
 
 ### Created by :
-**Mhd Sami AlEsh**
-**Mhd Alaa Khair Allah**
+**Mhd Sami AlEsh & Mhd Alaa Khair Allah**
